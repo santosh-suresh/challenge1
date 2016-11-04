@@ -10,6 +10,8 @@
 etc)
 * Once you have done that and ready with a solution, raise a pull
   request to my repo
+* All solutions should have unit tests (or specs) without which they
+  will not be merged back to the repo.
 * The challenge should be completed by Monday 7th November 2016. Pull
   requests raised after that will not be considered
 
